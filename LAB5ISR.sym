@@ -1,0 +1,32 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCIIENTER              17BB
+//	DDR                     1751
+//	DSR                     1750
+//	KBDR                    17BC
+//	LCCHARACTER             178C
+//	LOWERBOUND              1749
+//	LOWERCASE1              172E
+//	LOWERCASE2              172F
+//	NUMBER                  17A5
+//	NUMBER1                 1734
+//	NUMBER2                 1735
+//	NUMBERBOUND             1745
+//	POLL                    173A
+//	RETURN                  1743
+//	SAVER0                  174B
+//	SAVER1                  174C
+//	SAVER2                  174E
+//	SAVER3                  174F
+//	SAVER7                  174D
+//	SPECIAL1                1722
+//	SPECIAL2                1723
+//	SPECIALBOUND1           1744
+//	SPECIALBOUND2           1746
+//	SPECIALBOUND3           1748
+//	SPECIALBOUND4           174A
+//	SPECIALCHARACTER        1752
+//	UCCHARACTER             1773
+//	UPPERBOUND              1747
+//	UPPERCASE1              1728
+//	UPPERCASE2              1729
